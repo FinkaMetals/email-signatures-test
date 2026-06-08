@@ -102,42 +102,40 @@ color: #e62d19; font-weight: 700;">w:</strong> <a href=3D"https://finkameta=
 ls.com" style=3D"color: #414042; text-decoration: none;">finkametals.com</a=
 ></div>
       <div style=3D"margin: 6px 0 4px 0; line-height: 0; white-space: nowra=
-p;">
-        <a href=3D"https://www.linkedin.com/company/finka-metals" style=3D"=
-text-decoration: none;"><img src=3D"data:image/png;base64,iVBORw0KGgoAAAANS=
-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3D"=
- width=3D"17" height=3D"17" style=3D"display: inline-block; width: 17px; he=
-ight: 17px; border: 0; vertical-align: middle;" alt=3D"LinkedIn" /></a>
-      </div>
+p;"><a href=3D"https://www.linkedin.com/company/finka-metals" style=3D"text=
+-decoration: none;"><img src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEU=
+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3D" wid=
+th=3D"17" height=3D"17" style=3D"display: inline-block; width: 17px; height=
+: 17px; border: 0; vertical-align: middle;" alt=3D"LinkedIn" /></a></div>
     </td>
   </tr></tbody>
 </table>
